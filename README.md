@@ -1,7 +1,1 @@
-## Vexal Scripts | Open-Source
-
-files in this repository are all open-sourced and may be used in your own projects **only if you provide credits (to me ofc).**
-
-they may not work and may need custom setup ~ *make it yours*.
-
-if you do not know how to script, then start learning, you have a long journey ahead of you, you will love it.
+All files in this repository are open source and can be used in your own projects as long as you give proper credit to me. Some files may not work right away and may require custom setup or changes, so make them your own. If you don't know how to script yet, start learning. You have a long journey ahead of you, and you'll love it.
